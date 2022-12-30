@@ -1,0 +1,32 @@
+#include <stdio.h>
+
+int main()
+{
+    float a;
+    printf("Nhap diem thi: ");
+    scanf("%f",&a);
+
+    if((a<0)||a>10)
+        printf("Khong hop le");
+    else
+		{
+        a=a*0.4;
+        if(a==4)
+            printf("diem theo thang 4 la %f - diem A", a);
+        else if(3.5<=a)
+                printf("diem theo thang 4 la %f - diem B+", a);
+             else if(3<=a)
+                     printf("diem theo thang 4 la %f - diem B", a);
+                  else if(2.5<=a)
+                         printf("diem theo thang 4 la %f - diem C+", a);
+                       else if(2<=a)
+                               printf("diem theo thang 4 la %f - diem C", a);
+                            else if(1.5<=a)
+                               printf("diem theo thang 4 la %f - diem D+", a);
+                                 else if(1<=a)
+                                         printf("diem theo thang 4 la %f - diem D", a);
+                                      else if(a<1)
+                                             printf("diem theo thang 4 la %f - diem F", a);
+         }
+    return 0;
+}
