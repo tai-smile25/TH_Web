@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <table border="1"
+        <tr> 
+            <tr bgcolor ="bluegreen">
+            <th>Character</th>
+            <th>Html<br>Code </th>
+            <th>Character<br>Code</th>
+            <th>Description of Character</th> 
+        </tr>
+        
+            <tr bgcolor ="yellow">
+            <td>&#140</td>
+            <td>&#38;&#35;140:</td>
+            <td></td>
+            <td>capital OE ligature</td>
+        </tr>
+        <tr>
+            <tr bgcolor ="yellow">
+            <td>&#145</td>
+            <td>&#38;&#35;145</td>
+            <td>&rsqu0:</td>
+            <td>left curly quote mark</td>
+        </tr>
+        <tr>
+            <tr bgcolor ="yellow">
+            <td>&#146</td>
+            <td>&#38;&#35;146</td>
+            <td>&rsqu0:</td>
+            <td>right curly quote<br> mark/apostrophe </td>
+        </tr>
+        <tr>
+            <tr bgcolor ="yellow">
+            <td>&#146</td>
+            <td>&#38;&#35;146</td>
+            <td>&rsqu0:</td>
+            <td>right curly quote<br> mark/apostrophe </td>
+            
+    </tr>
+</body>
+</html>
