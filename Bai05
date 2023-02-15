@@ -1,0 +1,37 @@
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <div id="0">Example Cafe Menu</div>
+    <a href="#1">Starters</a>
+    <a href="#2">Main courses</a>
+    <a href="#3">Desserts</a>
+    <p id="1">Strartes</p>
+    <ul type=disc>
+        <li>Chestnut and Mushroom Goujons</li>
+        <li>Goat Cheese Salad</li>
+        <li>Honey Soy Chicken</li>
+        <li>Seafood Salad</li>
+        <a href="#0">Back to top</a>
+    </ul>
+    <p id="2">Main course</p>
+    <ul type=disc>
+        <li>Spinach</li>
+        <li>Beef</li>
+        <li>Roat Chicken</li>
+        <li>Icelandic</li>
+        <li>Mushroom</li>
+        <a href="#0">back to top</a>
+    </ul>
+    <p id="3">Desserts</p>
+    <ul type=disc>
+        <li>Lemon</li>
+        <li>Chocolate</li>
+        <li>Pecan Pie</li>
+        <li>Selection</li>
+        <a href="#0">back to top</a>
+        
+    </ul>
+    <p> Items marked with a(v) are suitable for vegetarians.</v></p>
+</body>
